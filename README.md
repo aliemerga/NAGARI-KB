@@ -1,11 +1,11 @@
 
-  # UI/UX Design for KB App
+# NAGARI-KB
 
-  This is a code bundle for UI/UX Design for KB App. The original project is available at https://www.figma.com/design/MhZNT1I0ABn4v4CjngjEid/UI-UX-Design-for-KB-App.
+This repository contains the UI/UX Design for KB App.
 
-  ## Running the code
+The original project is available at: https://www.figma.com/design/MhZNT1I0ABn4v4CjngjEid/UI-UX-Design-for-KB-App
 
-  Run `npm i` to install the dependencies.
+## Running the code
 
-  Run `npm run dev` to start the development server.
-  
+1. Run `npm i` to install the dependencies.
+2. Run `npm run dev` to start the development server.
